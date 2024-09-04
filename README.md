@@ -28,7 +28,7 @@ The Wildfire Detection System is an innovative project that leverages AI, machin
 To set up the project locally, follow these steps:
 
 1. Download all files in this repository
-2. Run the Model
+2. Run the FinalProductionWildFireDetectionSystem.ipynb
 3. Run App.Py
 4. Run Home.HTML
 
